@@ -1,0 +1,205 @@
+2025-03-11 09:40:17,126 - INFO - Данные успешно загружены из файла result_with_ids.xlsx
+2025-03-11 09:40:19,157 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-11 09:40:19,157 - INFO - Фоновая задача для проверки активности запущена.
+2025-03-11 09:40:19,157 - INFO - Бот успешно запущен. Ожидание событий...
+2025-03-11 09:40:20,192 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getMe "HTTP/1.1 200 OK"
+2025-03-11 09:40:20,332 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/deleteWebhook "HTTP/1.1 200 OK"
+2025-03-11 09:40:20,332 - INFO - Added job "check_user_activity" to job store "default"
+2025-03-11 09:40:20,334 - INFO - Scheduler started
+2025-03-11 09:40:20,334 - INFO - Application started
+2025-03-11 09:40:30,753 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 09:40:35,220 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 09:40:35,220 - INFO - Application is stopping. This might take a moment.
+2025-03-11 09:40:35,220 - INFO - Scheduler has been shut down
+2025-03-11 09:40:35,220 - INFO - Application.stop() complete
+2025-03-11 09:41:53,998 - INFO - Данные успешно загружены из файла result_with_ids.xlsx
+2025-03-11 09:41:54,907 - CRITICAL - Критическая ошибка при запуске бота: You must pass the token you received from https://t.me/Botfather!
+2025-03-11 09:42:12,287 - INFO - Данные успешно загружены из файла result_with_ids.xlsx
+2025-03-11 09:42:13,194 - CRITICAL - Критическая ошибка при запуске бота: You must pass the token you received from https://t.me/Botfather!
+2025-03-11 09:56:31,161 - CRITICAL - Токен бота не найден! Проверьте файл .env.
+2025-03-11 09:59:46,486 - CRITICAL - Токен бота не найден! Проверьте файл .env.
+2025-03-11 09:59:51,772 - CRITICAL - Токен бота не найден! Проверьте файл .env.
+2025-03-11 10:02:57,774 - INFO - Данные успешно загружены из файла result_with_ids.xlsx
+2025-03-11 10:02:58,678 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-11 10:02:58,678 - INFO - Фоновая задача для проверки активности запущена.
+2025-03-11 10:02:58,678 - INFO - Бот успешно запущен. Ожидание событий...
+2025-03-11 10:02:59,478 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getMe "HTTP/1.1 200 OK"
+2025-03-11 10:02:59,743 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/deleteWebhook "HTTP/1.1 200 OK"
+2025-03-11 10:02:59,759 - INFO - Added job "check_user_activity" to job store "default"
+2025-03-11 10:02:59,759 - INFO - Scheduler started
+2025-03-11 10:02:59,759 - INFO - Application started
+2025-03-11 10:03:00,276 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:03:00,546 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:03:07,167 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:03:17,291 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:03:27,487 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:03:37,720 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:03:47,947 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:03:58,146 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:03:58,681 - INFO - Running job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:04:58 UTC)" (scheduled at 2025-03-11 05:03:58.678445+00:00)
+2025-03-11 10:03:58,681 - INFO - Job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:04:58 UTC)" executed successfully
+2025-03-11 10:04:08,327 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:04:18,439 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:04:18,593 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:04:19,077 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:04:19,957 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:04:21,781 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:04:21,987 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/editMessageText "HTTP/1.1 200 OK"
+2025-03-11 10:04:22,284 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:04:25,304 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:04:25,789 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:04:35,615 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:04:45,796 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:04:45,804 - WARNING - Данные для ВУ номера NV68190 не найдены.
+2025-03-11 10:04:46,347 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:04:55,957 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:04:58,686 - INFO - Running job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:05:58 UTC)" (scheduled at 2025-03-11 05:04:58.678445+00:00)
+2025-03-11 10:04:58,686 - INFO - Job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:05:58 UTC)" executed successfully
+2025-03-11 10:05:06,116 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:05:16,353 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:05:26,508 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:05:36,676 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:05:46,865 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:05:51,058 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:05:51,058 - INFO - Application is stopping. This might take a moment.
+2025-03-11 10:05:51,058 - INFO - Scheduler has been shut down
+2025-03-11 10:05:51,058 - INFO - Application.stop() complete
+2025-03-11 10:08:01,406 - INFO - Данные успешно загружены из файла result_with_ids.xlsx
+2025-03-11 10:08:02,319 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-11 10:08:02,319 - INFO - Фоновая задача для проверки активности запущена.
+2025-03-11 10:08:02,319 - INFO - Бот успешно запущен. Ожидание событий...
+2025-03-11 10:08:03,084 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getMe "HTTP/1.1 200 OK"
+2025-03-11 10:08:03,204 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/deleteWebhook "HTTP/1.1 200 OK"
+2025-03-11 10:08:03,204 - INFO - Added job "check_user_activity" to job store "default"
+2025-03-11 10:08:03,204 - INFO - Scheduler started
+2025-03-11 10:08:03,207 - INFO - Application started
+2025-03-11 10:08:03,681 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:08:03,870 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:08:08,749 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:08:08,981 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:08:18,873 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:08:29,461 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:08:39,639 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:08:49,795 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:08:59,910 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:09:00,557 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:09:02,331 - INFO - Running job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:10:02 UTC)" (scheduled at 2025-03-11 05:09:02.319688+00:00)
+2025-03-11 10:09:02,331 - INFO - Job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:10:02 UTC)" executed successfully
+2025-03-11 10:09:10,115 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:09:20,325 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:09:30,502 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:09:40,675 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:09:50,833 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:10:01,002 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:10:02,334 - INFO - Running job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:11:02 UTC)" (scheduled at 2025-03-11 05:10:02.319688+00:00)
+2025-03-11 10:10:02,334 - INFO - Job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:11:02 UTC)" executed successfully
+2025-03-11 10:10:11,155 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:10:21,309 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:10:31,503 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:10:41,785 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:10:52,086 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:11:02,214 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:11:02,332 - INFO - Running job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:12:02 UTC)" (scheduled at 2025-03-11 05:11:02.319688+00:00)
+2025-03-11 10:11:02,332 - INFO - Job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:12:02 UTC)" executed successfully
+2025-03-11 10:11:12,355 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:11:22,544 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:11:32,678 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:11:36,427 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:11:37,158 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:11:38,378 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:11:38,675 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:11:48,664 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:11:56,752 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:11:57,607 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:12:02,340 - INFO - Running job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:13:02 UTC)" (scheduled at 2025-03-11 05:12:02.319688+00:00)
+2025-03-11 10:12:02,340 - INFO - Job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:13:02 UTC)" executed successfully
+2025-03-11 10:12:06,994 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:12:16,619 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:12:16,619 - INFO - Application is stopping. This might take a moment.
+2025-03-11 10:12:16,619 - INFO - Scheduler has been shut down
+2025-03-11 10:12:16,619 - INFO - Application.stop() complete
+2025-03-11 10:12:40,484 - INFO - Данные успешно загружены из файла result_with_ids.xlsx
+2025-03-11 10:12:41,437 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-11 10:12:41,437 - INFO - Фоновая задача для проверки активности запущена.
+2025-03-11 10:12:41,437 - INFO - Бот успешно запущен. Ожидание событий...
+2025-03-11 10:12:42,526 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getMe "HTTP/1.1 200 OK"
+2025-03-11 10:12:42,820 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/deleteWebhook "HTTP/1.1 200 OK"
+2025-03-11 10:12:42,832 - INFO - Added job "check_user_activity" to job store "default"
+2025-03-11 10:12:42,832 - INFO - Scheduler started
+2025-03-11 10:12:42,832 - INFO - Application started
+2025-03-11 10:13:09,817 - INFO - Данные успешно загружены из файла result_with_ids.xlsx
+2025-03-11 10:13:10,796 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-11 10:13:10,796 - INFO - Фоновая задача для проверки активности запущена.
+2025-03-11 10:13:10,796 - INFO - Бот успешно запущен. Ожидание событий...
+2025-03-11 10:13:11,314 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getMe "HTTP/1.1 200 OK"
+2025-03-11 10:13:11,524 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/deleteWebhook "HTTP/1.1 200 OK"
+2025-03-11 10:13:11,525 - INFO - Added job "check_user_activity" to job store "default"
+2025-03-11 10:13:11,525 - INFO - Scheduler started
+2025-03-11 10:13:11,526 - INFO - Application started
+2025-03-11 10:13:17,140 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:13:17,825 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:13:19,688 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:13:19,880 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:13:29,863 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:13:30,561 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:13:31,043 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/sendMessage "HTTP/1.1 200 OK"
+2025-03-11 10:13:40,754 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:13:50,869 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:14:00,994 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:14:10,799 - INFO - Running job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:15:10 UTC)" (scheduled at 2025-03-11 05:14:10.796700+00:00)
+2025-03-11 10:14:10,799 - INFO - Job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:15:10 UTC)" executed successfully
+2025-03-11 10:14:11,148 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:14:21,273 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:14:31,396 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:14:41,555 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:14:51,735 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:15:01,865 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:15:10,812 - INFO - Running job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:16:10 UTC)" (scheduled at 2025-03-11 05:15:10.796700+00:00)
+2025-03-11 10:15:10,812 - INFO - Job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:16:10 UTC)" executed successfully
+2025-03-11 10:15:12,449 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:15:23,069 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:15:33,227 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:15:43,478 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:15:53,776 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:16:03,904 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:16:10,806 - INFO - Running job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:17:10 UTC)" (scheduled at 2025-03-11 05:16:10.796700+00:00)
+2025-03-11 10:16:10,806 - INFO - Job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:17:10 UTC)" executed successfully
+2025-03-11 10:16:14,029 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:16:24,174 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:16:34,434 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:16:44,582 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:16:54,970 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:17:05,149 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:17:10,800 - INFO - Running job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:18:10 UTC)" (scheduled at 2025-03-11 05:17:10.796700+00:00)
+2025-03-11 10:17:10,800 - INFO - Job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:18:10 UTC)" executed successfully
+2025-03-11 10:17:15,394 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:17:25,634 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:17:35,794 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:17:45,928 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:17:56,186 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:18:06,305 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:18:10,811 - INFO - Running job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:19:10 UTC)" (scheduled at 2025-03-11 05:18:10.796700+00:00)
+2025-03-11 10:18:10,811 - INFO - Job "check_user_activity (trigger: interval[0:01:00], next run at: 2025-03-11 05:19:10 UTC)" executed successfully
+2025-03-11 10:18:16,512 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:18:26,671 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:18:35,664 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 10:18:35,664 - INFO - Application is stopping. This might take a moment.
+2025-03-11 10:18:35,664 - INFO - Scheduler has been shut down
+2025-03-11 10:18:35,665 - INFO - Application.stop() complete
+2025-03-11 13:26:33,190 - INFO - Данные успешно загружены из файла result_with_ids.xlsx
+2025-03-11 13:26:34,946 - INFO - Наблюдение за обновлением файла Excel запущено.
+2025-03-11 13:26:34,948 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-11 13:26:34,949 - INFO - Фоновая задача для проверки активности запущена.
+2025-03-11 13:26:34,949 - INFO - Запуск бота...
+2025-03-11 13:26:35,681 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getMe "HTTP/1.1 200 OK"
+2025-03-11 13:26:35,804 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/deleteWebhook "HTTP/1.1 200 OK"
+2025-03-11 13:26:35,805 - INFO - Added job "check_user_activity" to job store "default"
+2025-03-11 13:26:35,806 - INFO - Scheduler started
+2025-03-11 13:26:35,806 - INFO - Application started
+2025-03-11 13:26:40,850 - INFO - HTTP Request: POST https://api.telegram.org/bot7870902950:AAHXNVhxl5x_is-jvCN1Zq6eklPFjEpjvqM/getUpdates "HTTP/1.1 200 OK"
+2025-03-11 13:26:40,851 - INFO - Application is stopping. This might take a moment.
+2025-03-11 13:26:40,852 - INFO - Scheduler has been shut down
+2025-03-11 13:26:40,852 - INFO - Application.stop() complete
+2025-03-11 13:26:40,853 - INFO - Запуск бота...
+2025-03-11 13:26:40,855 - CRITICAL - Критическая ошибка: Event loop is closed
+2025-03-11 13:26:40,855 - CRITICAL - Критическая ошибка при запуске бота: 'ExtBot' object has no attribute 'create_context'
